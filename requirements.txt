@@ -1,0 +1,3 @@
+# Aucune dependance externe : le script n'utilise que la bibliotheque
+# standard Python (urllib, xml, json). Ce fichier est laisse ici au cas
+# ou tu voudrais ajouter des dependances plus tard.
